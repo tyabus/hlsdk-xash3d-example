@@ -10,6 +10,7 @@ make -f /path/to/Microndk.mk
 ```  
 # NOTE
 To make this look like full weapon, you need to appoint the sprites.
+
 example of /sprites/weapon_example.txt
 ```
 weapon 640 640hud2 0 135 170 45
